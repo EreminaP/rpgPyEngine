@@ -1,0 +1,6 @@
+numpy
+pyglet
+pyinstaller
+pypresence
+pillow
+colorama

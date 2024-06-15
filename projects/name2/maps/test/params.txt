@@ -1,0 +1,5 @@
+sizeX = 10
+sizeY = 10
+colorBgR = 200
+colorBgG = 100
+colorBgB = 100

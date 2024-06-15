@@ -1,0 +1,5 @@
+sizeX = 70
+sizeY = 70
+colorBgR = 0
+colorBgG = 0
+colorBgB = 0

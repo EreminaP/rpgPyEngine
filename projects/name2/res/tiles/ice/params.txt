@@ -1,0 +1,3 @@
+solid = False
+friction = 1.005
+rotation = 90

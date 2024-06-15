@@ -1,0 +1,11 @@
+2,kyk
+5,no
+1,grass
+3,wall
+4,wood
+6,dirt
+7,ice
+9,grass2
+10,flowerBlue
+11,flowerRed
+12,wood—копия

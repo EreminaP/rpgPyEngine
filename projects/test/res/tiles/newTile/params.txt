@@ -1,0 +1,2 @@
+friction = 1
+solid = True
